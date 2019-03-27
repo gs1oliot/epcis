@@ -38,21 +38,30 @@
 
 > Maven
 
-> Spring Framework
+> Spring Framework v5.x
 
-> MongoDB v3.4
+> MongoDB v4.0
+
+### Organizations and Projects disclosing their usage ###
+> Auto-ID Labs, KAIST [Link](http://autoidlab.kaist.ac.kr/)
+
+> BIBA - Bremer Institut für Produktion und Logistik GmbH (an affiliate institute of the University of Bremen, Germany) [Link](http://www.biba.uni-bremen.de/en.html)
+
+> IoF 2020 (EU Horizon 2020 Project) [Link](https://www.iof2020.eu/)
+
+> NIMBLE (EU Horizon 2020 Project) [Link](https://www.nimble-project.org/)
 
 ### Contact ###
 > Auto-ID Labs, KAIST
 
 > Maintainer:
 
->> Jaewook Byun, Ph.D. student : bjw0829@kaist.ac.kr, bjw0829@gmail.com
+>> Jaewook Byun, Assistant Professor, Halla University, Republic of Korea, Ph.D. : bjw0829@kaist.ac.kr, bjw0829@gmail.com, jaewook.byun@halla.ac.kr
 
 > MySQL Backend Extension:
 
->> Yalew Kidane, Ph.D. student : yalewkidane@kaist.ac.kr, yalewkidane@gmail.com
+>> Yalew Kidane, KAIST, Ph.D. student : yalewkidane@kaist.ac.kr, yalewkidane@gmail.com
 
 > Capture Interface Extension:
 
->> Sungpil Woo, Master student : woosungpil@kaist.ac.kr, woosungpil7@gmail.com
+>> Sungpil Woo, Electronics and Telecommunication Research Institute (ETRI), Researcher : woosungpil7@gmail.com
